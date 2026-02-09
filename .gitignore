@@ -1,0 +1,10 @@
+# Data and local files
+data/
+*.csv
+*.json
+
+# Python/Docker junk
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+venv/
