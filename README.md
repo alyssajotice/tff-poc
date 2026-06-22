@@ -2,6 +2,8 @@
 
 A proof-of-concept pipeline comparing **centralized**, **federated**, and **federated + differentially private (DP)** training on synthetic patient data, built to generate the empirical results behind an MPhil thesis on epsilon selection in differential privacy as de facto technical policymaking.
 
+Thesis linked in repo: [Tice_Parameterisation_Privacy.pdf](https://github.com/alyssajotice/tff-poc/blob/master/Tice_Parameterisation_Privacy.pdf)
+
 The core question: as you tighten the privacy budget (lower epsilon → more noise), how much model accuracy do you give up — and at what point does that trade-off become a policy decision rather than a purely technical one?
 
 ## What it does
